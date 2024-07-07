@@ -38,6 +38,10 @@ body {
     position: relative;
 }
 
+.profile-image {
+    width: 75%;
+}
+
 .image-flash {
     position: absolute;
     bottom: 5%;
